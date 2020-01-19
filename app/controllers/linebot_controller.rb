@@ -55,6 +55,6 @@ def find_team(num)
     else
     nil
     end
-end
+  end
 end
 
