@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  name: MyString
+  center: MyString
+  goal: MyString
+  win: MyString
+
+two:
+  number: MyString
+  name: MyString
+  center: MyString
+  goal: MyString
+  win: MyString
