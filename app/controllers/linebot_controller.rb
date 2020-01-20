@@ -28,7 +28,7 @@ events.each { |event|
     else
     message = [{
       type: 'text',
-      text: "ないよ！"
+      text: "知るか！"
     }]
       end
       client.reply_message(event['replyToken'], message)
