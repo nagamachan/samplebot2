@@ -20,7 +20,7 @@ events.each { |event|
       msg = event.message['text']
       id = msg.to_i
       if find_team(id)
-      title = find_team(id)
+      team = find_team(id)
     message = [{
       type: 'text',
       text: "「#{team.name}」\nMVP:#{team.center} \n得点王:#{team.goal} \n年度:#{team.win}"
